@@ -2,6 +2,8 @@
 Minecraft server world downloads.
 This isn't WHOLE worlds but it's usually spawns or important areas.
 
+Depending how big and intersting a server is, you can also suggest servers WITH their IP.
+
 # DISCLAIMER
 Some servers will apear to have a lot of ores in the ground, this is usually because they use Anti-Xray.
 Some servers may be laggy due to bots/NPCs.
