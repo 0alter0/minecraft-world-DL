@@ -11,4 +11,4 @@ Chests will NOT show loot.
 At the end of the worlds, it'll just be a dropoff.
 
 # Instalation
-Simply download the folder, go to your Minecraft instalation, go into the files of it, go into saves, and drop the folder.
+Simply download the zip file, go into your Minecraft instance, go into the files, go into saves, in the zip file, there will either be 1 folder or multiple items, if there is 1 folder, just drag that folder into the saves folder, if there are multiple items, make a new folder in your saves (you can name it whatever you want, as it will be your world name), then place all those items in that folder.
