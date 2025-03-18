@@ -10,5 +10,5 @@ Some servers may be laggy due to bots/NPCs.
 Chests will NOT show loot.
 At the end of the worlds, it'll just be a dropoff.
 
-# Instalation
+# Installation
 Simply download the zip file, go into your Minecraft instance, go into the files, go into saves, in the zip file, there will either be 1 folder or multiple items, if there is 1 folder, just drag that folder into the saves folder, if there are multiple items, make a new folder in your saves (you can name it whatever you want, as it will be your world name), then place all those items in that folder.
